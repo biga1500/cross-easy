@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "CrossEasy",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

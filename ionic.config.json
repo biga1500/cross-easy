@@ -1,0 +1,8 @@
+{
+  "name": "CrossEasy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "66d427a3"
+}
